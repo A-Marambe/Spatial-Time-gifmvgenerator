@@ -2,7 +2,7 @@
 This code extract data from images and display in animated timeseries images
 
 ## why it is important/ use case?
-Presenting geospatial data to an audience over a long time span always being a challenge for geospatial data scientists. For a complete presentation, elaboration of both spatial and time components is a mandatory task. This code satisfies it, by creating an image time series and extracted stat data visualization burned into a single gif image.
+Presenting geospatial data over a long time span, to an audience  always being a challenge for geospatial data scientists. For a complete presentation, elaboration of both spatial and time components is a mandatory task. This code satisfies it, by creating an image time series and extracted stat data visualization burned into a single gif image.
 
 ## What do you need?
 - Set of model out puts as images(georeferenced of not georeferenced) to extract data from
