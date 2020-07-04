@@ -14,4 +14,4 @@ Presenting geospatial data over a long time span, to an audience  always being a
 - change folder paths appropriately
 
 ## Things to remeber?
-- Dates are in **Julian day** 
+- Dates are in **Julian day format** 
