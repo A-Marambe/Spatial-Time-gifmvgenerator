@@ -16,6 +16,6 @@ Presenting geospatial data over a long time span, to an audience  always being a
 ## Things to remeber?
 - Dates are in **Julian day format** 
 </br>
-</br>
-![animatedET (1)]
-(https://user-images.githubusercontent.com/25448193/161412766-fa2bef6c-f54f-4f51-9abb-c7f46f7d6f92.gif)
+
+
+![animatedET (1)](https://user-images.githubusercontent.com/25448193/161412816-e84c7cc9-1499-448d-80f4-de8d687d3eba.gif)
